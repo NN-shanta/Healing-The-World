@@ -1,0 +1,36 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0%;
+}
+.cover-page {
+  background-image: url(images/donation1.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  backdrop-filter: blur(10px);
+}
+.cover-page-text {
+  text-align: center;
+  padding: 120px 300px;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.404);
+}
+.cover-page-text h1 {
+  font-size: 50px;
+  font-weight: 900;
+}
+.button {
+  text-decoration: none;
+  font-weight: 900;
+  padding: 10px 20px;
+  border-radius: 10px;
+  color: #ffffff;
+  background-image: linear-gradient(#e06a3f, #f1694c);
+}
+.donete {
+  text-align: center;
+  padding: 60px 300px;
+}
+.paragraph-colour {
+  color: rgb(49, 46, 46);
+}
