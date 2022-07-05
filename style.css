@@ -47,8 +47,16 @@ section {
   font-weight: 900;
   font-size: 20px;
 }
-.color{
+#defrent-color-amount {
   color: orangered;
   border: 1px solid orangered;
   background-color: antiquewhite;
+}
+.amount {
+  text-align: center;
+  padding: 20px 20px;
+  margin-left: 70px;
+  margin-bottom: 70px;
+  font-size: 20px;
+  border: none;
 }
