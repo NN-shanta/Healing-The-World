@@ -150,3 +150,30 @@ section {
   font-weight: 400;
   color: rgb(233, 68, 68);
 }
+.all-cetegory {
+    margin-left: 550px ;
+
+}
+.categories {
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  color: white;
+  font-size: 25px;
+  backdrop-filter: blur(10px);
+}
+
+.general {
+  background-image: url(images/general.jpg);
+}
+.covid {
+  background-image: url(images/covid.jpg);
+}
+.rehabilitation {
+  background-image: url(images/rehabilities.jpg);
+}
+.flood {
+  background-image: url(images/flood.jpg);
+}
