@@ -40,23 +40,34 @@ section {
   padding-right: 300px;
   margin-bottom: 100px;
 }
-.money {
-  padding-left: 40px;
-  padding-right: 40px;
+.amount-button {
+  border: none;
+  padding: 30px 30px;
   text-align: center;
-  font-weight: 900;
-  font-size: 20px;
+  text-decoration: none;
+  font-size: 25px;
+  font-weight: 700;
+  margin: 5px 5px;
+  cursor: pointer;
+  color: rgb(87, 80, 80);
+  background-color: transparent;
 }
-#defrent-color-amount {
+
+#defrent-buton {
   color: orangered;
   border: 1px solid orangered;
   background-color: antiquewhite;
 }
-.amount {
+
+input {
+  border-width: 1px;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-color: rgb(153, 147, 147);
+  outline: none;
   text-align: center;
-  padding: 20px 20px;
-  margin-left: 70px;
-  margin-bottom: 70px;
+  padding: 10px 200px;
+  margin: 20px 340px;
   font-size: 20px;
-  border: none;
 }
