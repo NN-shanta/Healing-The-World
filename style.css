@@ -23,13 +23,14 @@ body {
   text-decoration: none;
   font-weight: 900;
   padding: 10px 20px;
-  border-radius: 10px;
+  border-radius: 5px;
   color: #ffffff;
   background-image: linear-gradient(#e06a3f, #f1694c);
+  margin: 0px;
 }
 .donete {
   text-align: center;
-  padding: 60px 300px;
+  padding: 100px 300px;
 }
 .paragraph-colour {
   color: rgb(49, 46, 46);
@@ -68,6 +69,9 @@ input {
   outline: none;
   text-align: center;
   padding: 10px 200px;
-  margin: 20px 340px;
+  margin: 30px 340px;
   font-size: 20px;
+}
+.button2 {
+  margin-left: 580px;
 }
