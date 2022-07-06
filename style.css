@@ -64,7 +64,7 @@ section {
   background-color: antiquewhite;
 }
 
-input {
+.input-amount input {
   border-width: 1px;
   border-top: 0;
   border-left: 0;
@@ -112,4 +112,24 @@ input {
   width: 450px;
   height: 400px;
   border-radius: 5px;
+}
+.update {
+  padding: 80px 530px;
+  padding-bottom: 80px;
+  /* margin-left: 150px;
+  margin-right: 150px; */
+  background-image: linear-gradient(#c1e0c1, #d1d6d1);
+}
+.footer {
+  background-color: #01010f;
+  padding: 20px;
+  text-align: center;
+}
+.footer p {
+  color: white;
+}
+.footer h3 {
+  font-family: "Lobster", cursive;
+  font-size: 30px;
+  color: rgb(153, 2, 35);
 }
