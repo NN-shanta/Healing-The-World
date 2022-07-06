@@ -55,7 +55,7 @@ section {
   margin: 5px 5px;
   cursor: pointer;
   color: rgb(87, 80, 80);
-  background-color: transparent;
+  background-color: lavender;
 }
 
 #defrent-buton {
@@ -85,7 +85,7 @@ section {
   /* margin-left: 100px;
   border-left: 30px; */
   border-radius: 5px;
-  text-align: justify;
+  text-align: center;
 }
 .bg-color1 {
   background-image: linear-gradient(#ebdbd5, #f0e9e8);
@@ -114,11 +114,15 @@ section {
   border-radius: 5px;
 }
 .update {
+  text-align: center;
+  padding: 0px 300px 100px;
+}
+.update-button {
   padding: 80px 530px;
   padding-bottom: 80px;
   /* margin-left: 150px;
   margin-right: 150px; */
-  background-image: linear-gradient(#c1e0c1, #d1d6d1);
+  background-color: #f7f0ee;
 }
 .footer {
   background-color: #01010f;
