@@ -151,18 +151,19 @@ section {
   color: rgb(233, 68, 68);
 }
 .all-cetegory {
-    margin-left: 550px ;
-
+  margin-left: 550px;
 }
 .categories {
   background-repeat: no-repeat;
   background-position: center;
-  height: 100%;
-  width: 100%;
+  height: 300px;
+  width: 500px;
+  margin-left: 30px;
+  margin-right: 20px;
+  border-radius: 10px;
   text-align: center;
   color: white;
-  font-size: 25px;
-  backdrop-filter: blur(10px);
+  font-size: 60px;
 }
 
 .general {
@@ -170,9 +171,6 @@ section {
 }
 .covid {
   background-image: url(images/covid.jpg);
-}
-.rehabilitation {
-  background-image: url(images/rehabilities.jpg);
 }
 .flood {
   background-image: url(images/flood.jpg);
