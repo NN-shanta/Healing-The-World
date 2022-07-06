@@ -118,11 +118,24 @@ section {
   padding: 0px 300px 100px;
 }
 .update-button {
-  padding: 80px 530px;
+  padding: 80px 220px;
   padding-bottom: 80px;
-  /* margin-left: 150px;
-  margin-right: 150px; */
-  background-color: #f7f0ee;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-bottom: 50px;
+  border-radius: 5px;
+  background-color: #fcf3f0;
+}
+.update-button input {
+  border: none;
+  border-radius: 5px;
+  outline: none;
+  padding: 7px 50px;
+  font-size: 20px;
+  background-color: lavender;
+}
+#submit {
+  background-color: rgb(233, 68, 68);
 }
 .footer {
   background-color: #01010f;
@@ -135,5 +148,6 @@ section {
 .footer h3 {
   font-family: "Lobster", cursive;
   font-size: 30px;
-  color: rgb(153, 2, 35);
+  font-weight: 400;
+  color: rgb(233, 68, 68);
 }
